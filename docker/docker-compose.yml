@@ -2,26 +2,20 @@ version: '3'
 services:
   todotests:
     build: ./todo-app/tests
-    volumes:
-      - ./todo-app/tests:containerPath:ro
     depends_on:
-      - "todofront"
-      - "todoback"
+      - todofront
+      - todoback
     environment:
       - FRONT_HOST=todofront
   todofront:
     build: ./todo-app/front-end
-    volumes:
-      - ./todo-app/front-end:containerPath:ro
     depends_on:
-      - "todoback"
+      - todoback
     environment:
       - REACT_APP_API_HOST=todobackend
     ports:
       - 3000:3000
   todoback:
     build: ./todo-app/back-end
-    volumes:
-      - ./todo-app/back-end:containerPath:ro
     ports:
       - 3001:3001
