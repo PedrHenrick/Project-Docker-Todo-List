@@ -1,4 +1,4 @@
-# Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Bem vindo ao repositório do projeto **All For One**🤺!
+# Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Bem vindo ao repositório do projeto **Docker Todo List** 🐳📝!
 
 ### Esse foi o meu primeiro contato com o Docker. Fizemos esse projeto na trybe com o intuito de praticar os comandos básicos do docker, além da criação do `Dockerfile` e orquestrando tudo com `docker-compose`.
 
@@ -159,3 +159,5 @@
     - O container de `todobackend` deve rodar na porta `3001`;
     - O nome do _service_ deverá ser `todoback`;
 ---
+
+### Esse projeto contém arquivos desenvolvidos pela @BeTrybe
