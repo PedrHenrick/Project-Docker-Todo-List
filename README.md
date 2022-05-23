@@ -160,4 +160,4 @@
     - O nome do _service_ deverá ser `todoback`;
 ---
 
-### Esse projeto contém arquivos desenvolvidos pela @BeTrybe
+### Esse projeto contém arquivos desenvolvidos pela [Trybe](https://www.betrybe.com/)!
