@@ -32,7 +32,7 @@
 
   * 5 - Rode toda a aplicação utilizando o comando `docker-compose up -d`
 
-  E pronto! Se tudo ocorreu bem, já temos nossa aplicação na sua máquina rodando neste [link](http://localhost:3000/). Agora você já pode fechar o terminal e abrir a pasta que está na área de trabalho, em seguida a pasta com o nome do projeto, lá você verá algumas pastas, uma com toda a aplicação que iremos dockerizar e outra com comandos do docker que realizam as atividades que foram pedidas na aba de <a href="#desafios">desafios</a>.
+  E pronto! Se tudo ocorreu bem, já temos nossa aplicação na sua máquina rodando neste [link](http://localhost:3000/). Agora você já pode fechar o terminal e abrir a pasta que está na área de trabalho, em seguida a pasta com o nome do projeto. Lá você verá duas pastas principais, uma com toda a aplicação que iremos dockerizar e outra com comandos do docker que realizam as atividades que foram pedidas na aba de <a href="#desafios">desafios</a>.
   </h3>
   <br />
 </details>
