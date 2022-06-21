@@ -1,4 +1,4 @@
-# Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Bem vindo ao repositório do projeto **Docker Todo List** 🐳📝!
+# Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="50px"> Bem vindo ao repositório do projeto **Docker Todo List** 🐳📝!
 
 ### Esse foi o meu primeiro contato com o Docker. Fizemos esse projeto na trybe com o intuito de praticar os comandos básicos do docker, além da criação do `Dockerfile` e orquestrando tudo com `docker-compose`.
 
